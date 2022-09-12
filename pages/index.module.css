@@ -1,0 +1,1544 @@
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #eaeeff;
+  width: 1440px;
+  height: 1024px;
+}
+.recentActivitiesDiv {
+  position: relative;
+  font-size: 24px;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  font-family: Gilroy;
+  color: #00261c;
+  display: inline-block;
+}
+.shapeIcon {
+  position: relative;
+  width: 16.93px;
+  height: 23.44px;
+  flex-shrink: 0;
+}
+.coinsDiv {
+  border-radius: 8px;
+  background-color: #ffcc40;
+  width: 40px;
+  height: 40px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  padding: 16px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.bitcoinDiv {
+  position: relative;
+  letter-spacing: 0.02em;
+  font-weight: 600;
+  display: inline-block;
+  width: 80.57px;
+  flex-shrink: 0;
+}
+.frameDiv2 {
+  width: 196px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 75px;
+}
+.aMDiv {
+  letter-spacing: 0.02em;
+  font-weight: 600;
+  display: inline-block;
+  width: 88px;
+}
+.aMDiv,
+.div,
+.growthYesIcon {
+  position: relative;
+  flex-shrink: 0;
+}
+.div {
+  letter-spacing: 0.02em;
+  font-weight: 600;
+  display: inline-block;
+  width: 72px;
+}
+.growthYesIcon {
+  width: 93.83px;
+  height: 35.56px;
+}
+.frameDiv1 {
+  width: 1040px;
+  height: 45px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  padding: 0 24px 0 0;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: space-between;
+}
+.shapeIcon1,
+.unionIcon {
+  position: relative;
+  width: 0;
+  height: 0;
+  flex-shrink: 0;
+}
+.unionIcon {
+  width: 12px;
+  height: 24px;
+}
+.coinsDiv1 {
+  border-radius: 8px;
+  background-color: #fe8f66;
+  width: 40px;
+  height: 40px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  padding: 16px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.ethereumDiv {
+  position: relative;
+  letter-spacing: 0.02em;
+  font-weight: 600;
+  display: inline-block;
+  width: 75.56px;
+  flex-shrink: 0;
+}
+.frameDiv4 {
+  width: 197px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 75px;
+}
+.div1 {
+  position: relative;
+  letter-spacing: 0.02em;
+  font-weight: 600;
+  display: inline-block;
+}
+.growthNoIcon {
+  position: relative;
+  width: 84.54px;
+  height: 35.05px;
+  flex-shrink: 0;
+}
+.frameDiv3 {
+  width: 1040px;
+  height: 46px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  padding: 0 24px 0 0;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 188px;
+}
+.shapeIcon3 {
+  position: relative;
+  width: 16px;
+  height: 18px;
+  flex-shrink: 0;
+}
+.coinsDiv2 {
+  border-radius: 8px;
+  background-color: #783efd;
+  width: 40px;
+  height: 40px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  padding: 16px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.lTCDiv {
+  position: relative;
+  letter-spacing: 0.02em;
+  font-weight: 600;
+  display: inline-block;
+  width: 82px;
+  flex-shrink: 0;
+}
+.frameDiv {
+  position: absolute;
+  top: 721px;
+  left: 142px;
+  border-radius: 16px;
+  background-color: #fff;
+  box-shadow: -1px 2px 20px rgba(112, 126, 174, 0.22);
+  width: 1236px;
+  height: 254px;
+  display: flex;
+  flex-direction: column;
+  padding: 24px 0 0 24px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  color: #707eae;
+}
+.maskGroupIcon {
+  top: 73.17px;
+  left: 0;
+  width: 1236px;
+  height: 217.02px;
+}
+.maskGroupIcon,
+.pinIcon,
+.timeB {
+  position: absolute;
+}
+.pinIcon {
+  top: -1px;
+  left: 361px;
+  width: 72px;
+  height: 292px;
+}
+.timeB {
+  width: 4.78%;
+  top: calc(50% - -73.91px);
+  right: 61.27%;
+  left: 33.96%;
+  letter-spacing: -0.02em;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.graphDiv {
+  position: absolute;
+  top: 66.99px;
+  left: 0;
+  width: 1236px;
+  height: 290.18px;
+  text-align: center;
+  color: #00523c;
+  font-family: Inter;
+}
+.oval7Icon {
+  position: relative;
+  width: 8px;
+  height: 8px;
+  flex-shrink: 0;
+}
+.div4 {
+  position: relative;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  display: inline-block;
+}
+.div5,
+.sellDiv {
+  position: absolute;
+}
+.sellDiv {
+  top: 61.99px;
+  left: 356px;
+  border-radius: 24px;
+  background: linear-gradient(128.8deg, #fff, rgba(255, 255, 255, 0.13));
+  box-shadow: 0 6px 16px rgba(27, 192, 237, 0.06);
+  backdrop-filter: blur(15px);
+  width: 87.84px;
+  height: 31.93px;
+  display: flex;
+  flex-direction: row;
+  padding: 8px 8px 8px 16px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 8px;
+  font-size: 16px;
+}
+.div5 {
+  top: 32.5px;
+  left: 24.39px;
+  font-size: 14px;
+  letter-spacing: -0.02em;
+  color: #00dea3;
+  width: 120.9px;
+  height: 28px;
+}
+.aLLDiv,
+.div5,
+.dollarDiv {
+  font-weight: 500;
+  display: inline-block;
+}
+.dollarDiv {
+  position: absolute;
+  top: 0;
+  left: 23.4px;
+  font-size: 24px;
+  letter-spacing: 0.02em;
+  color: #00261c;
+  width: 195.48px;
+  height: 28.94px;
+}
+.aLLDiv {
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 20px;
+}
+.timeDiv {
+  border-radius: 12px;
+  background-color: #00dea3;
+  box-shadow: 0 6px 16px rgba(0, 222, 163, 0.06);
+  backdrop-filter: blur(15px);
+  width: 48px;
+  height: 32px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  padding: 8px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+}
+.timeDiv1,
+.yTDDiv {
+  position: relative;
+  flex-shrink: 0;
+}
+.timeDiv1 {
+  border-radius: 12px;
+  box-shadow: 0 15px 35px rgba(242, 57, 133, 0.15);
+  backdrop-filter: blur(15px);
+  border: 1px solid #aeb6cf;
+  box-sizing: border-box;
+  width: 48px;
+  height: 32px;
+  display: flex;
+  flex-direction: row;
+  padding: 8px;
+  align-items: center;
+  justify-content: center;
+}
+.yTDDiv {
+  letter-spacing: -0.02em;
+  line-height: 20px;
+  font-weight: 500;
+  display: inline-block;
+  width: 32px;
+}
+.frameDiv7,
+.timeDiv4 {
+  display: flex;
+  flex-direction: row;
+}
+.timeDiv4 {
+  border-radius: 12px;
+  box-shadow: 0 15px 35px rgba(242, 57, 133, 0.15);
+  backdrop-filter: blur(15px);
+  border: 1px solid #aeb6cf;
+  box-sizing: border-box;
+  position: relative;
+  width: 64px;
+  height: 32px;
+  flex-shrink: 0;
+  padding: 8px;
+  align-items: center;
+  justify-content: center;
+}
+.frameDiv7 {
+  position: absolute;
+  top: 8.92px;
+  right: 68.25px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 19px;
+  text-align: center;
+}
+.maskGroupDiv,
+.maskGroupDiv1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1236px;
+  height: 357.18px;
+}
+.maskGroupDiv {
+  top: 28.01px;
+  text-align: left;
+  font-size: 12px;
+  color: #232927;
+}
+.rectangleDiv1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 14.5px;
+  background-color: transparent;
+  backdrop-filter: blur(18.55px);
+}
+.eTHB {
+  position: absolute;
+  width: 29.87%;
+  top: calc(50% - 12px);
+  right: 33.65%;
+  left: 36.48%;
+  letter-spacing: -0.02em;
+  display: inline-block;
+}
+.oval6Icon {
+  height: 28.57%;
+  width: 10.39%;
+  top: 35.71%;
+  right: 70.13%;
+  bottom: 35.71%;
+  left: 19.48%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.bTC,
+.oval6Icon,
+.sellDiv1 {
+  position: absolute;
+}
+.sellDiv1 {
+  top: 339px;
+  left: 1027.95px;
+  width: 77px;
+  height: 28px;
+  overflow: hidden;
+}
+.bTC {
+  width: 32.43%;
+  top: calc(50% - 12px);
+  right: 31.03%;
+  left: 36.53%;
+  letter-spacing: -0.02em;
+  display: inline-block;
+}
+.oval6Icon1 {
+  height: 28.57%;
+  width: 10.81%;
+  top: 35.71%;
+  right: 68.92%;
+  bottom: 35.71%;
+  left: 20.27%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.buyDiv,
+.div3,
+.oval6Icon1 {
+  position: absolute;
+}
+.buyDiv {
+  top: 339px;
+  left: 946px;
+  width: 74px;
+  height: 28px;
+  overflow: hidden;
+}
+.div3 {
+  top: 315px;
+  left: 142px;
+  border-radius: 16px;
+  background-color: #fff;
+  box-shadow: -10px 56px 140px rgba(143, 155, 186, 0.2);
+  backdrop-filter: blur(19px);
+  width: 1236px;
+  height: 386px;
+  text-align: right;
+  color: #6f6c99;
+  font-family: Gilroy;
+}
+.bTCDiv,
+.icons {
+  position: relative;
+  flex-shrink: 0;
+}
+.bTCDiv {
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  display: inline-block;
+  width: 32px;
+  height: 16px;
+}
+.icons {
+  width: 12px;
+  height: 12px;
+}
+.frameDiv11 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 9px;
+}
+.div6 {
+  position: relative;
+  font-size: 24px;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  color: #00261c;
+  display: inline-block;
+  width: 94px;
+  height: 24px;
+  flex-shrink: 0;
+}
+.frameDiv10 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.icons1 {
+  position: relative;
+  width: 13.62px;
+  height: 8.15px;
+  flex-shrink: 0;
+}
+.span {
+  color: #aeb6cf;
+}
+.div7 {
+  position: relative;
+  letter-spacing: -0.02em;
+  font-weight: 500;
+  display: inline-block;
+}
+.frameDiv12,
+.frameDiv9 {
+  display: flex;
+  justify-content: flex-start;
+}
+.frameDiv12 {
+  width: 94px;
+  height: 16px;
+  flex-shrink: 0;
+  flex-direction: row;
+  align-items: center;
+  gap: 4px;
+  font-size: 14px;
+  color: #00dea3;
+}
+.frameDiv9 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+}
+.growthIcon {
+  position: relative;
+  width: 104.91px;
+  height: 57.42px;
+  flex-shrink: 0;
+}
+.frameDiv17,
+.frameDiv8 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frameDiv8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 16px;
+  background-color: #fff;
+  width: 255px;
+  height: 178px;
+  padding: 24px;
+  box-sizing: border-box;
+  gap: 16px;
+}
+.frameDiv17 {
+  width: 94px;
+  height: 16px;
+  flex-shrink: 0;
+  gap: 4px;
+  font-size: 14px;
+  color: #f23985;
+}
+.growthIcon1 {
+  position: relative;
+  width: 104.53px;
+  height: 58px;
+  flex-shrink: 0;
+}
+.frameDiv13,
+.frameDiv18 {
+  position: absolute;
+  top: 0;
+  left: 327px;
+  border-radius: 16px;
+  background-color: #fff;
+  width: 255px;
+  height: 178px;
+  display: flex;
+  flex-direction: row;
+  padding: 24px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.frameDiv18 {
+  left: 654px;
+}
+.combinedShapeIcon {
+  position: relative;
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
+}
+.coinsDiv6 {
+  border-radius: 8px;
+  background-color: #311d05;
+  width: 40px;
+  height: 40px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  padding: 16px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.frameDiv23,
+.groupDiv {
+  position: absolute;
+  height: 178px;
+}
+.frameDiv23 {
+  top: 0;
+  left: 981px;
+  border-radius: 16px;
+  background-color: #fff;
+  width: 255px;
+  display: flex;
+  flex-direction: row;
+  padding: 24px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.groupDiv {
+  top: 117px;
+  left: 142px;
+  box-shadow: -1px 2px 20px rgba(112, 126, 174, 0.22);
+  width: 1236px;
+  font-size: 16px;
+  font-family: Gilroy;
+}
+.helloCryptoExchanger,
+.pm19Jan2022 {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+}
+.pm19Jan2022 {
+  font-size: 15px;
+  font-weight: 500;
+  color: #707eae;
+}
+.frameDiv28 {
+  position: absolute;
+  top: 32px;
+  left: 140px;
+  width: 417px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 5px;
+  font-size: 32px;
+  color: #000;
+}
+.searchNormalIcon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+}
+.searchDiv {
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 24px;
+  display: inline-block;
+}
+.frameDiv29 {
+  position: absolute;
+  top: 39px;
+  left: 600px;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0 2px 10px rgba(112, 126, 174, 0.2);
+  width: 461px;
+  height: 48px;
+  display: flex;
+  flex-direction: row;
+  padding: 8px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 8px;
+  text-align: center;
+  color: #aeb6cf;
+  font-family: Gilroy;
+}
+.rectangleDiv3 {
+  position: absolute;
+  top: 397px;
+  left: 635px;
+  width: 100px;
+  height: 100px;
+}
+.tradeAnywhereDiv {
+  position: absolute;
+  top: 0;
+  left: 375px;
+  letter-spacing: -0.02em;
+  display: inline-block;
+}
+.iPhone12MockupFrontView1,
+.iPhone12Pro61 {
+  position: absolute;
+  top: 0;
+  left: 635px;
+  width: 293px;
+  height: 601px;
+  object-fit: cover;
+}
+.iPhone12Pro61 {
+  top: 58px;
+  left: 995px;
+  width: 242px;
+  height: 485px;
+}
+.rectangleDiv4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 11.09px;
+  background-color: #fff;
+  width: 536px;
+  height: 142px;
+}
+.theVinDAXCrypto {
+  margin-block-start: 0;
+  margin-block-end: 5.44px;
+}
+.windowsOrMacOS {
+  margin: 0;
+}
+.theVinDAXCryptoTradingExpe {
+  position: absolute;
+  top: 31px;
+  left: 0.59px;
+  letter-spacing: -0.02em;
+  line-height: 13px;
+  font-weight: 600;
+  white-space: pre-wrap;
+  display: inline-block;
+}
+.span3 {
+  font-size: 15.53px;
+  font-weight: 600;
+}
+.desktopDiv {
+  position: absolute;
+  top: 0;
+  left: 0.59px;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  font-size: 17.75px;
+}
+.iconALinux1,
+.iconAMacos2,
+.iconAWindow2 {
+  position: absolute;
+  top: 73px;
+  left: 174px;
+  width: 131px;
+  height: 39px;
+  object-fit: cover;
+}
+.iconALinux1,
+.iconAMacos2 {
+  left: 351px;
+  width: 132px;
+}
+.iconAMacos2 {
+  top: 74px;
+  left: 0;
+  width: 128px;
+  height: 37px;
+}
+.groupDiv4,
+.groupDiv5 {
+  position: absolute;
+  top: 15px;
+  left: 27.41px;
+  width: 483px;
+  height: 112px;
+}
+.groupDiv4 {
+  top: 202px;
+  left: 0;
+  width: 536px;
+  height: 142px;
+}
+.mobile {
+  font-family: Inter;
+}
+.span4 {
+  font-weight: 600;
+}
+.mobileP {
+  margin-block-start: 0;
+  margin-block-end: 4.44px;
+}
+.downloadTheVinDAXMobileCry {
+  margin: 0;
+  font-size: 15.53px;
+}
+.mobileDownloadTheVinDAXMob {
+  position: absolute;
+  top: 0;
+  left: 0.34px;
+  letter-spacing: -0.02em;
+  line-height: 137.2%;
+  display: inline-block;
+  width: 477.18px;
+}
+.iconAMacos1,
+.iconAQrcode1,
+.iconAWindow1 {
+  position: absolute;
+  top: 65.7px;
+  left: 0;
+  width: 128px;
+  height: 38px;
+  object-fit: cover;
+}
+.iconAQrcode1,
+.iconAWindow1 {
+  left: 176px;
+  width: 129px;
+}
+.iconAQrcode1 {
+  left: 353px;
+  width: 128px;
+}
+.groupDiv6,
+.groupDiv7 {
+  position: absolute;
+  top: 19px;
+  left: 27.41px;
+  width: 481px;
+  height: 103.7px;
+}
+.groupDiv6 {
+  top: 0;
+  left: 0;
+  width: 536px;
+  height: 142px;
+  font-size: 17.75px;
+}
+.theVinDAXCrypto1 {
+  font-weight: 500;
+}
+.theVinDAXCryptoTradingExpe1 {
+  margin-block-start: 0;
+  margin-block-end: 4.44px;
+  font-size: 16px;
+}
+.aPITheVinDAXCryptoTrading {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 508px;
+}
+.groupButton,
+.groupDiv8 {
+  position: absolute;
+  top: 85px;
+  left: 0;
+}
+.groupDiv8 {
+  top: 404px;
+  width: 508px;
+  height: 133px;
+  font-size: 20px;
+}
+.groupDiv1,
+.groupDiv2,
+.groupDiv3 {
+  position: absolute;
+  top: 32px;
+  left: 0;
+  width: 536px;
+  height: 537px;
+}
+.groupDiv1,
+.groupDiv2 {
+  top: 136px;
+  width: 1237px;
+  height: 601px;
+  font-size: 15.53px;
+  font-family: Inter;
+}
+.groupDiv1 {
+  top: 1052px;
+  left: 142px;
+  height: 737px;
+  font-size: 48px;
+  color: #000;
+  font-family: "Integral CF";
+}
+.maskGroupIcon1,
+.socialMediaInstagramDigitalIcon {
+  position: absolute;
+  top: 83px;
+  left: 694px;
+  width: 504.05px;
+  height: 396.42px;
+  object-fit: cover;
+}
+.socialMediaInstagramDigitalIcon {
+  top: 37px;
+  left: 95px;
+  border-radius: 32px;
+  width: 448px;
+  height: 291px;
+}
+.blankLineP {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.welcomeBackToContainer {
+  line-break: anywhere;
+  width: 100%;
+}
+.welcomeBackToTheVinDAXCom {
+  position: absolute;
+  top: 403px;
+  left: 50px;
+  font-weight: 500;
+  display: flex;
+  align-items: flex-end;
+  width: 437px;
+  height: 54px;
+}
+.communityCustomerService {
+  position: absolute;
+  top: 341px;
+  left: 50px;
+  font-size: 32px;
+  font-weight: 800;
+  display: inline-block;
+}
+.groupIcon {
+  position: absolute;
+  height: 5.6%;
+  width: 24%;
+  top: 83.19%;
+  right: 71.96%;
+  bottom: 11.22%;
+  left: 4.05%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.div14 {
+  position: absolute;
+  top: 1866px;
+  left: 142px;
+  border-radius: 16px;
+  background-color: #cbe3ff;
+  width: 1237px;
+  height: 577px;
+  font-size: 20px;
+}
+.rectangleDiv6 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #eaeeff;
+}
+.aBOUTVINDAXDiv,
+.aboutUsAnnouncementsFAQsSu {
+  position: absolute;
+  height: 20.23%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 79.77%;
+  left: 0;
+  letter-spacing: -0.02em;
+  line-height: 137.2%;
+  display: inline-block;
+}
+.aboutUsAnnouncementsFAQsSu {
+  height: 73.99%;
+  width: 65.98%;
+  top: 26.01%;
+  right: 34.02%;
+  bottom: 0;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Inter;
+}
+.groupDiv12 {
+  position: absolute;
+  height: 82.78%;
+  width: 24.19%;
+  top: 0;
+  right: 75.81%;
+  bottom: 17.22%;
+  left: 0;
+}
+.aPIFeesTradingFeesRuleI,
+.tRADEDiv {
+  position: absolute;
+  height: 21.05%;
+  width: 60.1%;
+  top: 0;
+  right: 39.9%;
+  bottom: 78.95%;
+  left: 0;
+  letter-spacing: -0.02em;
+  line-height: 137.2%;
+  display: inline-block;
+}
+.aPIFeesTradingFeesRuleI {
+  height: 74.16%;
+  width: 100%;
+  top: 25.84%;
+  right: 0;
+  bottom: 0;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Inter;
+}
+.groupDiv13 {
+  position: absolute;
+  height: 100%;
+  width: 24.06%;
+  top: 0;
+  right: 33.92%;
+  bottom: 0;
+  left: 42.02%;
+  font-size: 32px;
+}
+.privacyTermsOfService {
+  position: absolute;
+  height: 49.49%;
+  width: 100%;
+  top: 50.51%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  letter-spacing: -0.02em;
+  line-height: 137.2%;
+  font-weight: 600;
+  display: inline-block;
+}
+.groupDiv15,
+.legalDiv {
+  position: absolute;
+  top: 0;
+}
+.legalDiv {
+  height: 44.44%;
+  width: 85.27%;
+  right: 14.73%;
+  bottom: 55.56%;
+  left: 0;
+  font-size: 32px;
+  letter-spacing: -0.02em;
+  line-height: 137.2%;
+  font-family: "Integral CF";
+  display: inline-block;
+}
+.groupDiv15 {
+  height: 47.37%;
+  width: 16.08%;
+  right: 0;
+  bottom: 52.63%;
+  left: 83.92%;
+  font-size: 16px;
+  font-family: Inter;
+}
+.groupDiv11 {
+  position: absolute;
+  height: 66.56%;
+  width: 55.69%;
+  top: 16.88%;
+  right: 34.72%;
+  bottom: 16.56%;
+  left: 9.58%;
+}
+.iPhone12MockupFrontView11,
+.iPhone12Pro611 {
+  position: absolute;
+  height: 85.03%;
+  width: 8.96%;
+  top: 9.87%;
+  right: 19.65%;
+  bottom: 5.1%;
+  left: 71.39%;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.iPhone12Pro611 {
+  height: 71.66%;
+  width: 7.78%;
+  top: 15.61%;
+  right: 7.57%;
+  bottom: 12.74%;
+  left: 84.65%;
+}
+.groupDiv10,
+.rectangleDiv7 {
+  position: absolute;
+  height: 44.04%;
+  width: 99.93%;
+  top: 55.96%;
+  right: 0;
+  bottom: 0;
+  left: 0.07%;
+}
+.rectangleDiv7 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  background-color: #4c40e6;
+}
+.flatColorIconsonlineSuppor {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.gotAProblemJustGetInTou,
+.supportDiv {
+  position: absolute;
+  top: 43px;
+  left: 0;
+  letter-spacing: -0.02em;
+  line-height: 137.2%;
+  font-weight: 600;
+  display: inline-block;
+}
+.supportDiv {
+  top: 0;
+  left: 49px;
+  font-size: 24px;
+  font-weight: 800;
+}
+.groupDiv17 {
+  position: relative;
+  width: 261px;
+  height: 92px;
+  flex-shrink: 0;
+}
+.frameDiv31 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 29px;
+}
+.bloggingSvgrepoCom1Icon {
+  position: relative;
+  width: 98px;
+  height: 98px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.newsAndUpdatesFromTheWorl,
+.vinDAXBlogDiv {
+  position: absolute;
+  letter-spacing: -0.02em;
+  line-height: 137.2%;
+  display: inline-block;
+}
+.newsAndUpdatesFromTheWorl {
+  top: 43px;
+  left: 0;
+  font-weight: 600;
+  width: 230px;
+  height: 68px;
+}
+.vinDAXBlogDiv {
+  top: 0;
+  left: 38px;
+  font-size: 24px;
+  font-weight: 800;
+}
+.groupDiv18 {
+  position: relative;
+  width: 230px;
+  height: 111px;
+  flex-shrink: 0;
+}
+.frameDiv32 {
+  position: absolute;
+  top: 0;
+  left: 340px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.groupSvgrepoCom1Icon {
+  position: relative;
+  width: 115px;
+  height: 115px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.communityDiv,
+.vinDAXIsGlobalJoinTheDis {
+  position: absolute;
+  letter-spacing: -0.02em;
+  line-height: 137.2%;
+  display: inline-block;
+}
+.vinDAXIsGlobalJoinTheDis {
+  top: 43px;
+  left: 0;
+  font-weight: 600;
+  width: 209px;
+  height: 68px;
+}
+.communityDiv {
+  top: 0;
+  left: 37px;
+  font-size: 24px;
+  font-weight: 800;
+}
+.groupDiv19 {
+  position: relative;
+  width: 209px;
+  height: 111px;
+  flex-shrink: 0;
+}
+.frameDiv33 {
+  position: absolute;
+  top: 0;
+  left: 649px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.careersDiv,
+.vinDAXIsGlobalJoinTheDis1 {
+  position: absolute;
+  top: 42px;
+  left: 0;
+  letter-spacing: -0.02em;
+  line-height: 137.2%;
+  font-weight: 600;
+  display: inline-block;
+  width: 276px;
+}
+.careersDiv {
+  top: 0;
+  left: 80px;
+  font-size: 24px;
+  font-weight: 800;
+  width: 117px;
+  height: 32px;
+}
+.groupDiv20 {
+  position: relative;
+  width: 276px;
+  height: 91px;
+  flex-shrink: 0;
+}
+.frameDiv34 {
+  position: absolute;
+  top: 0;
+  left: 937px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.frameDiv30 {
+  position: absolute;
+  height: 59.65%;
+  width: 86.16%;
+  top: 35.09%;
+  right: 4.24%;
+  bottom: 5.26%;
+  left: 9.6%;
+}
+.getInTouchStayInTouch {
+  position: absolute;
+  height: 12.28%;
+  width: 38.6%;
+  top: 7.77%;
+  right: 30.67%;
+  bottom: 79.95%;
+  left: 30.74%;
+  font-size: 36px;
+  letter-spacing: -0.02em;
+  line-height: 137.2%;
+  font-family: "Integral CF";
+  text-align: left;
+  display: inline-block;
+}
+.groupDiv16 {
+  position: absolute;
+  height: 55.96%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 44.04%;
+  left: 0;
+  text-align: center;
+  font-size: 16px;
+  color: #fff;
+  font-family: Inter;
+}
+.groupDiv9 {
+  position: absolute;
+  top: 2486px;
+  left: -1px;
+  width: 1441px;
+  height: 713px;
+  font-size: 24px;
+  font-family: "Integral CF";
+}
+.frameButton {
+  position: absolute;
+  top: 44px;
+  left: 1126px;
+}
+.frameButton1,
+.rectangleDiv8 {
+  position: absolute;
+  top: 44px;
+  left: 1263px;
+}
+.rectangleDiv8 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #fff;
+}
+.risecurePaymentFillIcon {
+  position: relative;
+  border-radius: 8px;
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.frameDiv35 {
+  position: absolute;
+  height: 3.91%;
+  width: 50%;
+  top: 11.05%;
+  right: 25%;
+  bottom: 85.04%;
+  left: 25%;
+  border-radius: 8px;
+  display: none;
+  flex-direction: row;
+  padding: 11px 0 11px 10px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+.component1DefaultDiv {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.frameDiv36,
+.frameDiv37,
+.frameDiv38,
+.frameDiv39,
+.frameDiv40,
+.frameDiv41,
+.frameDiv42 {
+  position: absolute;
+  height: 3.91%;
+  width: 50%;
+  top: 14.17%;
+  right: 25%;
+  bottom: 81.92%;
+  left: 25%;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: row;
+  padding: 11px 0 11px 10px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frameDiv37,
+.frameDiv38,
+.frameDiv39,
+.frameDiv40,
+.frameDiv41,
+.frameDiv42 {
+  height: 3.71%;
+  top: 29.81%;
+  bottom: 66.47%;
+  flex-direction: column;
+  padding: 10px;
+  justify-content: center;
+}
+.frameDiv38,
+.frameDiv39,
+.frameDiv40,
+.frameDiv41,
+.frameDiv42 {
+  height: 3.91%;
+  top: 19.35%;
+  bottom: 76.74%;
+  padding: 11px 36px 11px 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameDiv39,
+.frameDiv40,
+.frameDiv41,
+.frameDiv42 {
+  top: 34.9%;
+  bottom: 61.19%;
+  padding: 11px 16px 11px 10px;
+}
+.frameDiv40,
+.frameDiv41,
+.frameDiv42 {
+  top: 45.26%;
+  bottom: 50.83%;
+}
+.frameDiv41,
+.frameDiv42 {
+  top: 40.08%;
+  bottom: 56.01%;
+  padding: 11px 22px 11px 10px;
+}
+.frameDiv42 {
+  top: 24.54%;
+  bottom: 71.55%;
+  padding: 11px 20px 11px 10px;
+}
+.groupIcon7 {
+  position: relative;
+  width: 18px;
+  height: 18.13px;
+  flex-shrink: 0;
+}
+.frameDiv43 {
+  position: absolute;
+  height: 3.91%;
+  width: 50%;
+  top: 8.9%;
+  right: 25%;
+  bottom: 87.19%;
+  left: 25%;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  padding: 11px 15px 11px 10px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.metamaskIcon {
+  position: absolute;
+  height: 3.13%;
+  width: 40%;
+  top: 92.38%;
+  right: 30%;
+  bottom: 4.5%;
+  left: 30%;
+  max-width: 100%;
+  max-height: 100%;
+  cursor: pointer;
+}
+.rectangleDiv9 {
+  position: absolute;
+  top: 67px;
+  left: 2px;
+  width: 70px;
+  height: 952px;
+}
+.toxyExchangeFinalLogo {
+  position: absolute;
+  height: 5.47%;
+  width: 70%;
+  top: 1.08%;
+  right: 15%;
+  bottom: 93.45%;
+  left: 15%;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+  cursor: pointer;
+}
+.component2Div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 80px;
+  height: 1023px;
+}
+.homePageDiv {
+  position: relative;
+  background-color: #eaeeff;
+  width: 100%;
+  height: 3199px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 14px;
+  color: #333;
+  font-family: Inter;
+}

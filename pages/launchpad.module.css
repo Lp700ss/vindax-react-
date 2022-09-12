@@ -1,0 +1,875 @@
+.helloCryptoExchanger,
+.pm19Jan2022 {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+}
+.pm19Jan2022 {
+  font-size: 15px;
+  font-weight: 500;
+  color: #707eae;
+}
+.frameDiv1 {
+  position: absolute;
+  top: 0;
+  left: 62px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 5px;
+}
+.searchNormalIcon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+}
+.searchDiv {
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 24px;
+  display: inline-block;
+}
+.frameDiv2 {
+  position: absolute;
+  top: 7px;
+  left: 520px;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0 2px 10px rgba(112, 126, 174, 0.2);
+  width: 406px;
+  height: 48px;
+  display: flex;
+  flex-direction: row;
+  padding: 8px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 8px;
+  text-align: center;
+  font-size: 14px;
+  color: #aeb6cf;
+  font-family: Gilroy;
+}
+.frameButton,
+.frameButton1,
+.frameDiv {
+  position: absolute;
+  top: 11px;
+  left: 1046px;
+}
+.frameButton1,
+.frameDiv {
+  left: 1183px;
+}
+.frameDiv {
+  top: 21px;
+  left: 80px;
+  width: 1298px;
+  height: 62px;
+  font-size: 32px;
+}
+.frameDiv3 {
+  position: absolute;
+  top: 0;
+  left: 1440px;
+  width: 110px;
+  height: 992px;
+  overflow: hidden;
+}
+.aTokenLaunchPlatformForTr,
+.vinDAXLaunchpadDiv {
+  position: absolute;
+  left: 142px;
+  line-height: 137.2%;
+  display: inline-block;
+}
+.vinDAXLaunchpadDiv {
+  top: 107px;
+  font-size: 48px;
+  font-weight: 800;
+}
+.aTokenLaunchPlatformForTr {
+  top: 178px;
+  font-weight: 500;
+}
+.button,
+.rectangleDiv {
+  position: absolute;
+  top: 159px;
+  left: 1220px;
+}
+.rectangleDiv {
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: #fff;
+  width: 383px;
+  height: 421px;
+}
+.ellipseIcon,
+.rectangleIcon {
+  position: absolute;
+  object-fit: cover;
+}
+.rectangleIcon {
+  top: 0;
+  left: 0;
+  border-radius: 10px 10px 0 0;
+  width: 383px;
+  height: 195px;
+}
+.ellipseIcon {
+  top: 145px;
+  left: 18px;
+  width: 100px;
+  height: 100px;
+}
+.gPAYETHSession {
+  position: absolute;
+  top: 208px;
+  left: 132px;
+  line-height: 24px;
+  display: inline-block;
+}
+.div {
+  top: 25px;
+  left: 181px;
+}
+.div,
+.gPAYDiv,
+.sESSIONSUPPLYDiv,
+.sTARTTIMEDiv {
+  position: absolute;
+  line-height: 24px;
+  font-weight: 600;
+  display: inline-block;
+}
+.sTARTTIMEDiv {
+  top: 1px;
+  left: 263px;
+  font-size: 14px;
+}
+.gPAYDiv,
+.sESSIONSUPPLYDiv {
+  top: 25px;
+  left: 0;
+}
+.sESSIONSUPPLYDiv {
+  top: 0;
+  font-size: 14px;
+}
+.groupDiv2 {
+  position: absolute;
+  top: 269px;
+  left: 18px;
+  width: 347px;
+  height: 49px;
+  font-size: 16px;
+}
+.openingDiv {
+  position: relative;
+  line-height: 24px;
+  font-weight: 600;
+  display: inline-block;
+}
+.frameDiv4 {
+  position: absolute;
+  top: 354px;
+  left: 18px;
+  border-radius: 5px;
+  background-color: #eff3fd;
+  width: 347px;
+  display: flex;
+  flex-direction: row;
+  padding: 4px 132px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: #00dea3;
+}
+.groupDiv,
+.groupDiv1,
+.groupDiv3,
+.groupDiv5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 383px;
+  height: 421px;
+}
+.groupDiv,
+.groupDiv3,
+.groupDiv5 {
+  left: 427px;
+}
+.groupDiv,
+.groupDiv5 {
+  left: 854px;
+}
+.groupDiv {
+  top: 229px;
+  left: 142px;
+  width: 1237px;
+}
+.groupDiv14,
+.groupDiv21,
+.groupDiv28,
+.groupDiv35,
+.groupDiv7 {
+  position: absolute;
+  top: 1191px;
+  left: 142px;
+  width: 1237px;
+  height: 421px;
+}
+.groupDiv14,
+.groupDiv21,
+.groupDiv28,
+.groupDiv35 {
+  top: 2153px;
+}
+.groupDiv21,
+.groupDiv28,
+.groupDiv35 {
+  top: 710px;
+}
+.groupDiv28,
+.groupDiv35 {
+  top: 1672px;
+}
+.groupDiv35 {
+  top: 2634px;
+}
+.maskGroupIcon,
+.socialMediaInstagramDigitalIcon {
+  position: absolute;
+  top: 83px;
+  left: 694px;
+  width: 504.05px;
+  height: 396.42px;
+  object-fit: cover;
+}
+.socialMediaInstagramDigitalIcon {
+  top: 37px;
+  left: 95px;
+  border-radius: 32px;
+  width: 448px;
+  height: 291px;
+}
+.blankLineP {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.weMissedYou {
+  margin: 0;
+}
+.welcomeBackToContainer {
+  line-break: anywhere;
+  width: 100%;
+}
+.welcomeBackToTheVinDAXCom {
+  position: absolute;
+  top: 403px;
+  left: 50px;
+  font-weight: 500;
+  display: flex;
+  align-items: flex-end;
+  width: 437px;
+  height: 54px;
+}
+.communityCustomerService {
+  position: absolute;
+  top: 341px;
+  left: 50px;
+  font-size: 32px;
+  font-weight: 800;
+  display: inline-block;
+}
+.groupIcon {
+  position: absolute;
+  height: 5.6%;
+  width: 24%;
+  top: 83.19%;
+  right: 71.96%;
+  bottom: 11.22%;
+  left: 4.05%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.div18 {
+  position: absolute;
+  top: 3093px;
+  left: 142px;
+  border-radius: 16px;
+  background-color: #cbe3ff;
+  width: 1236px;
+  height: 577px;
+}
+.rectangleDiv18 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #eaeeff;
+}
+.aBOUTVINDAXP {
+  margin-block-start: 0;
+  margin-block-end: 4.44px;
+}
+.aBOUTVINDAXDiv,
+.aboutUsAnnouncementsFAQsSu {
+  position: absolute;
+  height: 20.23%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 79.77%;
+  left: 0;
+  letter-spacing: -0.02em;
+  line-height: 137.2%;
+  display: inline-block;
+}
+.aboutUsAnnouncementsFAQsSu {
+  height: 73.99%;
+  width: 65.98%;
+  top: 26.01%;
+  right: 34.02%;
+  bottom: 0;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Inter;
+}
+.groupDiv45 {
+  position: absolute;
+  height: 82.78%;
+  width: 24.19%;
+  top: 0;
+  right: 75.81%;
+  bottom: 17.22%;
+  left: 0;
+}
+.aPIFeesTradingFeesRuleI,
+.tRADEDiv {
+  position: absolute;
+  height: 21.05%;
+  width: 60.1%;
+  top: 0;
+  right: 39.9%;
+  bottom: 78.95%;
+  left: 0;
+  letter-spacing: -0.02em;
+  line-height: 137.2%;
+  display: inline-block;
+}
+.aPIFeesTradingFeesRuleI {
+  height: 74.16%;
+  width: 100%;
+  top: 25.84%;
+  right: 0;
+  bottom: 0;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Inter;
+}
+.groupDiv46 {
+  position: absolute;
+  height: 100%;
+  width: 24.06%;
+  top: 0;
+  right: 33.92%;
+  bottom: 0;
+  left: 42.02%;
+  font-size: 32px;
+}
+.privacyTermsOfService {
+  position: absolute;
+  height: 49.49%;
+  width: 100%;
+  top: 50.51%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  letter-spacing: -0.02em;
+  line-height: 137.2%;
+  font-weight: 600;
+  display: inline-block;
+}
+.groupDiv48,
+.legalDiv {
+  position: absolute;
+  top: 0;
+}
+.legalDiv {
+  height: 44.44%;
+  width: 85.27%;
+  right: 14.73%;
+  bottom: 55.56%;
+  left: 0;
+  font-size: 32px;
+  letter-spacing: -0.02em;
+  line-height: 137.2%;
+  font-family: "Integral CF";
+  display: inline-block;
+}
+.groupDiv48 {
+  height: 47.37%;
+  width: 16.08%;
+  right: 0;
+  bottom: 52.63%;
+  left: 83.92%;
+  font-size: 16px;
+  font-family: Inter;
+}
+.groupDiv44 {
+  position: absolute;
+  height: 66.56%;
+  width: 55.69%;
+  top: 16.88%;
+  right: 34.72%;
+  bottom: 16.56%;
+  left: 9.58%;
+}
+.iPhone12MockupFrontView1,
+.iPhone12Pro61 {
+  position: absolute;
+  height: 85.03%;
+  width: 8.96%;
+  top: 9.87%;
+  right: 19.65%;
+  bottom: 5.1%;
+  left: 71.39%;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.iPhone12Pro61 {
+  height: 71.66%;
+  width: 7.78%;
+  top: 15.61%;
+  right: 7.57%;
+  bottom: 12.74%;
+  left: 84.65%;
+}
+.groupDiv43,
+.rectangleDiv19 {
+  position: absolute;
+  height: 44.04%;
+  width: 99.93%;
+  top: 55.96%;
+  right: 0;
+  bottom: 0;
+  left: 0.07%;
+}
+.rectangleDiv19 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  background-color: #4c40e6;
+}
+.flatColorIconsonlineSuppor {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.gotAProblemJustGetInTou,
+.supportDiv {
+  position: absolute;
+  top: 43px;
+  left: 0;
+  letter-spacing: -0.02em;
+  line-height: 137.2%;
+  font-weight: 600;
+  display: inline-block;
+}
+.supportDiv {
+  top: 0;
+  left: 49px;
+  font-size: 24px;
+  font-weight: 800;
+}
+.groupDiv50 {
+  position: relative;
+  width: 261px;
+  height: 92px;
+  flex-shrink: 0;
+}
+.frameDiv23 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 29px;
+}
+.bloggingSvgrepoCom1Icon {
+  position: relative;
+  width: 98px;
+  height: 98px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.newsAndUpdatesFromTheWorl,
+.vinDAXBlogDiv {
+  position: absolute;
+  letter-spacing: -0.02em;
+  line-height: 137.2%;
+  display: inline-block;
+}
+.newsAndUpdatesFromTheWorl {
+  top: 43px;
+  left: 0;
+  font-weight: 600;
+  width: 230px;
+  height: 68px;
+}
+.vinDAXBlogDiv {
+  top: 0;
+  left: 38px;
+  font-size: 24px;
+  font-weight: 800;
+}
+.groupDiv51 {
+  position: relative;
+  width: 230px;
+  height: 111px;
+  flex-shrink: 0;
+}
+.frameDiv24 {
+  position: absolute;
+  top: 0;
+  left: 340px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.groupSvgrepoCom1Icon {
+  position: relative;
+  width: 115px;
+  height: 115px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.communityDiv,
+.vinDAXIsGlobalJoinTheDis {
+  position: absolute;
+  letter-spacing: -0.02em;
+  line-height: 137.2%;
+  display: inline-block;
+}
+.vinDAXIsGlobalJoinTheDis {
+  top: 43px;
+  left: 0;
+  font-weight: 600;
+  width: 209px;
+  height: 68px;
+}
+.communityDiv {
+  top: 0;
+  left: 37px;
+  font-size: 24px;
+  font-weight: 800;
+}
+.groupDiv52 {
+  position: relative;
+  width: 209px;
+  height: 111px;
+  flex-shrink: 0;
+}
+.frameDiv25 {
+  position: absolute;
+  top: 0;
+  left: 649px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.careersDiv,
+.vinDAXIsGlobalJoinTheDis1 {
+  position: absolute;
+  top: 42px;
+  left: 0;
+  letter-spacing: -0.02em;
+  line-height: 137.2%;
+  font-weight: 600;
+  display: inline-block;
+  width: 276px;
+}
+.careersDiv {
+  top: 0;
+  left: 80px;
+  font-size: 24px;
+  font-weight: 800;
+  width: 117px;
+  height: 32px;
+}
+.groupDiv53 {
+  position: relative;
+  width: 276px;
+  height: 91px;
+  flex-shrink: 0;
+}
+.frameDiv26 {
+  position: absolute;
+  top: 0;
+  left: 937px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.frameDiv22 {
+  position: absolute;
+  height: 59.65%;
+  width: 86.16%;
+  top: 35.09%;
+  right: 4.24%;
+  bottom: 5.26%;
+  left: 9.6%;
+}
+.getInTouchStayInTouch {
+  position: absolute;
+  height: 12.28%;
+  width: 38.6%;
+  top: 7.77%;
+  right: 30.67%;
+  bottom: 79.95%;
+  left: 30.74%;
+  font-size: 36px;
+  letter-spacing: -0.02em;
+  line-height: 137.2%;
+  font-family: "Integral CF";
+  text-align: left;
+  display: inline-block;
+}
+.groupDiv49 {
+  position: absolute;
+  height: 55.96%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 44.04%;
+  left: 0;
+  text-align: center;
+  font-size: 16px;
+  color: #fff;
+  font-family: Inter;
+}
+.groupDiv42 {
+  position: absolute;
+  top: 3734px;
+  left: -1px;
+  width: 1441px;
+  height: 713px;
+  font-size: 24px;
+  font-family: "Integral CF";
+}
+.rectangleDiv20 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #fff;
+}
+.risecurePaymentFillIcon {
+  position: relative;
+  border-radius: 8px;
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.frameDiv27 {
+  position: absolute;
+  height: 3.91%;
+  width: 50%;
+  top: 11.05%;
+  right: 25%;
+  bottom: 85.04%;
+  left: 25%;
+  border-radius: 8px;
+  display: none;
+  flex-direction: row;
+  padding: 11px 0 11px 10px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+.component1DefaultDiv,
+.frameDiv28 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.frameDiv28 {
+  height: 3.91%;
+  width: 50%;
+  top: 14.17%;
+  right: 25%;
+  bottom: 81.92%;
+  left: 25%;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: row;
+  padding: 11px 0 11px 10px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+.groupIcon1 {
+  position: relative;
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
+}
+.frameDiv29,
+.frameDiv30,
+.frameDiv31,
+.frameDiv32,
+.frameDiv33,
+.frameDiv34 {
+  position: absolute;
+  height: 3.71%;
+  width: 50%;
+  top: 29.81%;
+  right: 25%;
+  bottom: 66.47%;
+  left: 25%;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.frameDiv30,
+.frameDiv31,
+.frameDiv32,
+.frameDiv33,
+.frameDiv34 {
+  height: 3.91%;
+  top: 19.35%;
+  bottom: 76.74%;
+  padding: 11px 36px 11px 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameDiv31,
+.frameDiv32,
+.frameDiv33,
+.frameDiv34 {
+  top: 34.9%;
+  bottom: 61.19%;
+  padding: 11px 16px 11px 10px;
+}
+.frameDiv32,
+.frameDiv33,
+.frameDiv34 {
+  top: 45.26%;
+  bottom: 50.83%;
+}
+.frameDiv33,
+.frameDiv34 {
+  top: 40.08%;
+  bottom: 56.01%;
+  padding: 11px 22px 11px 10px;
+}
+.frameDiv34 {
+  top: 24.54%;
+  bottom: 71.55%;
+  padding: 11px 20px 11px 10px;
+}
+.groupIcon7 {
+  position: relative;
+  width: 18px;
+  height: 18.13px;
+  flex-shrink: 0;
+}
+.frameDiv35 {
+  position: absolute;
+  height: 3.91%;
+  width: 50%;
+  top: 8.9%;
+  right: 25%;
+  bottom: 87.19%;
+  left: 25%;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  padding: 11px 15px 11px 10px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.metamaskIcon {
+  position: absolute;
+  height: 3.13%;
+  width: 40%;
+  top: 92.38%;
+  right: 30%;
+  bottom: 4.5%;
+  left: 30%;
+  max-width: 100%;
+  max-height: 100%;
+  cursor: pointer;
+}
+.rectangleDiv21 {
+  position: absolute;
+  top: 67px;
+  left: 2px;
+  width: 70px;
+  height: 952px;
+}
+.toxyExchangeFinalLogo {
+  position: absolute;
+  height: 5.47%;
+  width: 70%;
+  top: 1.08%;
+  right: 15%;
+  bottom: 93.45%;
+  left: 15%;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+  cursor: pointer;
+}
+.component2Div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 80px;
+  height: 1023px;
+}
+.launchpadDiv {
+  position: relative;
+  background-color: #eaeeff;
+  width: 100%;
+  height: 4447px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 20px;
+  color: #333;
+  font-family: Inter;
+}
